@@ -1,0 +1,179 @@
+body {
+	padding:0;
+	margin:0;
+}
+header .container-fluid {
+	background: url(https://www.gayaffinity.es/wp-content/uploads/2018/12/masaje-gayaffinity-thenook.jpg) no-repeat center top / cover;
+    height: 100vh;
+    padding-top: 36px;
+}
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.glavnaya {
+	margin-left: 440px;
+	color: Olive;
+	font-size: 23px;
+	margin-top: 50px;
+}
+.vidi-uslug {
+	margin-left: 610px;
+	color: Olive;
+	font-size: 23px;
+	margin-top: -48px;
+}
+.mesto {
+	margin-left: 770px;
+	color: Olive;
+	font-size: 23px;
+	margin-top: -48px;
+}
+.kontakty {
+	margin-left: 990px;
+	color: Olive;
+	font-size: 23px;
+	margin-top: -48px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.col1 {
+    width: 25%;
+}
+.col2 {
+	width: 83.33333333%;
+}
+.logo {
+    background: none;
+    border: 0;
+}
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-top: -300px;
+}
+.text-center {
+    text-align: center;
+}
+.jumbotron {
+    background: none;
+    text-align: center;
+	font-family: Snell Roundhand;
+	font-size: 30px;
+	color: Olive;
+	margin-top: -260px;
+	margin-left: 90px;
+}
+.vvodnyi {
+    background: none;
+    text-align: left;
+	font-family: Snell Roundhand;
+	font-size: 20px;
+	color: black;
+	line-height: 1.5;
+	margin-left: 30px;
+	margin-top: -60px;
+	margin-left: 30px;
+}
+.slogan {
+    background: none;
+    text-align: center;
+	font-family: Monotype Corsiva;
+	font-size: 45px;
+	color: Chocolate;
+	line-height: 1.5;
+}
+.btn {
+	display: inline-block;
+	margin-top: -380px;
+	margin-right: -80px;
+	font-weight: normal;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 8px 12px;
+	font-size: 16px;
+	line-height: 1.428571429;
+	border-radius: 0px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+.section1 {
+	background: url(https://www.publicdomainpictures.net/pictures/210000/velka/olive-green-painted-brick-wall.jpg) no-repeat center top / cover;
+    height: 100vh;
+    padding-top: 100px;
+}
+.fonosnov {
+	background: url(https://mkplitka.ru/assets/images/cersanit/relax/dip-blyu-belyij-dbg051_1381469532.jpg) no-repeat center top / cover;
+    height: 65vh;
+	width: 204vh;
+	padding-top: 0;
+}
+.fonbel {
+	background: url(https://krot.info/uploads/posts/2020-01/1579518011_30-107.jpg) no-repeat center top / cover;
+	height: 65vh;
+	width: 98vh;
+    padding-top: 70px;
+	float: left;
+}
+.girl {
+	background: url(https://avatars.mds.yandex.net/get-zen_doc/1594475/pub_5c73dde86dc7c000aeb0f097_5c73e3098fd40000b3b2bbcd/scale_1200) no-repeat center top / cover;
+	height: 65vh;
+	width: 106vh;
+    padding-top: 70px;
+	float: right;
+}
+.brownpolosa {
+	background: url(https://wallpaperlayer.com/img/2015/5/solid-brown-background-8081-8395-hd-wallpapers.jpg) no-repeat center top / cover;
+	height: 9vh;
+	width: 203vh;
+	margin-top: -60px;
+}
+.price-list {
+	background: none;
+    text-align: center;
+	font-family: Century Gothic;
+	font-size: 50px;
+	color: Olive;
+}
+.price-fon {
+	background: url(https://misspentsummers.com/wp-content/uploads/2019/06/rough-paper-texture.jpg) no-repeat center top / cover;
+	height: 67vh;
+	width: 203vh;
+	
+}
+.price {
+	font-family: Verdana;
+	margin-left: 370px;
+	padding-top: 20px;
+	font-size: 20px;
+}
+.price2 {
+	font-family: Verdana;
+	margin-right: 370px;
+	font-size: 20px;
+	float: right;
+}
+.adress {
+	font-family: Verdana;
+	padding-top: 150px;
+	font-size: 26px;
+	text-align:  center;
+}
+.svyaz {
+	font-family: Verdana;
+	padding-top: 50px;
+	font-size: 20px;
+	text-align:  left;
+	margin-left: 370px;
+}
